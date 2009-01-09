@@ -1,0 +1,25 @@
+= finsignia-gae =
+
+A Finsignia library that lays on top of the Google AppEngine webapp framework with extensions and helpers to DRY up web application code bases.
+
+== requirements ===
+
+Require Python version 2.5 or higher, with the following dependencies:
+* Google AppEngine version 1.1.7 or higher
+
+== limitations ==
+
+* Lacks documentation
+
+== git repository  ==
+
+http://github.com/finsignia/finsignia-gae
+
+== getting started ==
+
+% python
+>>> import finsignia.gae as fingae
+>>> help(fingae)
+
+Also, look at the examples in the examples directory.
+
